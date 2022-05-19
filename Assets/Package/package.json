@@ -1,0 +1,8 @@
+{
+  "name": "com.methusalah.spline-mesh",
+  "displayName": "Spline Mesh",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "dependencies": {
+  }
+}
